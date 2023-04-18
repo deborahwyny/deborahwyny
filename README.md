@@ -5,7 +5,6 @@
 - 🔭 I have a degree in history
 - 🌱 I’m currently studying Full Stack Software Development 
 - 💬 I speak Portuguese and English
-- 😄 She/her
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deborahwyny&show_icons=true&theme=dracula)
