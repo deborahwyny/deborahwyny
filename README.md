@@ -10,6 +10,8 @@
 
 📌Se você está em busca de uma profissional comprometida que já teve a oportunidade de atuar com gestão de equipes e projetos digitais, vamos conversar! Esses são os meus contatos e vou adorar adorar bater um papo com você.
 
+🗒️ E-mail: deborahwyny25@gmail.com
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deborahwyny&show_icons=true&theme=dracula)
 
 <div style="display: inline_block"><br>
