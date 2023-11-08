@@ -18,7 +18,6 @@
   <img align="center" alt="debs-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="debs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="debs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="debs-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202304/338224_6czeOaEF.png"
 </div>
 
 ##
