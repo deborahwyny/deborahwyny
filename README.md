@@ -12,6 +12,9 @@
 
 🗒️ E-mail: deborahwyny25@gmail.com
 
+![Cat Typing](https://usagif.com/wp-content/uploads/cat-typing-11.gif)
+
+##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deborahwyny&show_icons=true&theme=dracula&size_weight=150)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborahwyny&layout=compact&show_icons=true&theme=dracula&size_weight=150)
 <div style="display: inline_block"><br>
