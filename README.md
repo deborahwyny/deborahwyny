@@ -17,8 +17,8 @@
 <h3>Tecnologias que eu uso:</h3>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=deborahwyny&show_icons=true&theme=dracula&custom_title=GitHub%20Stats" alt="GitHub Stats" style="height: 150px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborahwyny&layout=compact&show_icons=true&theme=dracula&custom_title=Top%20Languages" alt="Top Languages" style="height: 150px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=deborahwyny&show_icons=true&theme=dracula&custom_title=GitHub%20Stats" alt="GitHub Stats" style="height: 175px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborahwyny&layout=compact&show_icons=true&theme=dracula&custom_title=Top%20Languages" alt="Top Languages" style="height: 175px;">
 </div>
 
 
