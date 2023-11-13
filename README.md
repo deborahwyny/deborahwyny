@@ -16,8 +16,12 @@
 ##
 <h3>Tecnologias que eu uso:</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deborahwyny&show_icons=true&theme=dracula&custom_title=GitHub%20Stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborahwyny&layout=compact&show_icons=true&theme=dracula&custom_title=Top%20Languages)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=deborahwyny&show_icons=true&theme=dracula&custom_title=GitHub%20Stats" alt="GitHub Stats" style="height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborahwyny&layout=compact&show_icons=true&theme=dracula&custom_title=Top%20Languages" alt="Top Languages" style="height: 200px;">
+</div>
+
+
 
 <div style="display: inline_block"><br>
 
