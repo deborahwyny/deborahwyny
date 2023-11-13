@@ -14,8 +14,11 @@
 ![Cat Typing](https://usagif.com/wp-content/uploads/cat-typing-11.gif.webp)
 
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deborahwyny&show_icons=true&theme=dracula&size_weight=150)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborahwyny&layout=compact&show_icons=true&theme=dracula&size_weight=150)
+<h3>Tecnologias que eu uso:</h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deborahwyny&show_icons=true&theme=dracula&custom_title=GitHub%20Stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborahwyny&layout=compact&show_icons=true&theme=dracula&custom_title=Top%20Languages)
+
 <div style="display: inline_block"><br>
 
 
@@ -51,7 +54,8 @@
 ##
   
   <div>
-    <a href="https://instagram.com/deborahwyny" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<h3>Redes Sociais:</h3>
+<a href="https://instagram.com/deborahwyny" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/deborah-wyny-sol-554041269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="mailto:deborahwyny25@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
