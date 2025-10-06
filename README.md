@@ -2,16 +2,6 @@
 
 
 
-🖥 Sou uma desenvolvedora web apaixonada por transformar ideias em soluções de software funcionais que possam facilitar e auxiliar a vida das pessoas. 
-
-🌟 Minha jornada na tecnologia começou com meu interesse por desafios lógicos e pela personalização das minhas páginas pessoais. Inicialmente, explorei tutoriais online para estudo, mas logo me dediquei a cursos profissionalizantes.
-
-🖱Ao longo do caminho, cada aspecto da programação se tornou igualmente intrigante. No mundo da programação, adquiri experiência em várias tecnologias, incluindo JavaScript, Node.js, React, MongoDB, PostgreSQL, TypeScript e práticas de testes.
-
-📚 Além da minha dedicação à programação, ministrei aulas de história para turmas do ensino fundamental e médio. Contribuí ativamente para projetos voluntários voltados à conscientização sobre questões raciais. Foram conduzidas palestras e atividades em grupos com alunos.
-
-📌Se você está em busca de uma profissional comprometida que já teve a oportunidade de atuar com gestão de equipes e projetos digitais, vamos conversar! Esses são os meus contatos e vou adorar adorar bater um papo com você.
-
 
 ![Cat Typing](https://usagif.com/wp-content/uploads/cat-typing-11.gif.webp)
 
